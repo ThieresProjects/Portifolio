@@ -3,8 +3,8 @@
 ---
 
 
-<p align="center">
-  # 🤖 Tecnologias  
-  # 💻 Projetos 
-  # 🎴 Layout
+<p align="center" style="color:red">
+  🤖 Tecnologias  
+  💻 Projetos 
+  🎴 Layout
 </p>
