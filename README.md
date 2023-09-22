@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  ## 🤖 Tecnologias
+  ## 🤖 Tecnologias | 💻 Projetos | 🎴 Layout
   
   `HTML5` `CSS3` `JavaScript` 
   
