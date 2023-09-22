@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center" style="color:red">
+<p align="center" style="display:flex; justify-content:space-around">
   🤖 Tecnologias  
   💻 Projetos 
   🎴 Layout
