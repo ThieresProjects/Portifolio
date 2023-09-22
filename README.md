@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="color:red">
   🤖 Tecnologias  
   💻 Projetos 
   🎴 Layout
